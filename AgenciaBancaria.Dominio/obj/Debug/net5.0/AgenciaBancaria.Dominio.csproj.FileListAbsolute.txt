@@ -1,0 +1,12 @@
+C:\Users\Viviane\Desktop\Nova pasta\Digital Inovation One\cursos\Bootcamp santander\AgenciaBancaria\AgenciaBancaria.Dominio\bin\Debug\net5.0\AgenciaBancaria.Dominio.deps.json
+C:\Users\Viviane\Desktop\Nova pasta\Digital Inovation One\cursos\Bootcamp santander\AgenciaBancaria\AgenciaBancaria.Dominio\bin\Debug\net5.0\AgenciaBancaria.Dominio.dll
+C:\Users\Viviane\Desktop\Nova pasta\Digital Inovation One\cursos\Bootcamp santander\AgenciaBancaria\AgenciaBancaria.Dominio\bin\Debug\net5.0\ref\AgenciaBancaria.Dominio.dll
+C:\Users\Viviane\Desktop\Nova pasta\Digital Inovation One\cursos\Bootcamp santander\AgenciaBancaria\AgenciaBancaria.Dominio\bin\Debug\net5.0\AgenciaBancaria.Dominio.pdb
+C:\Users\Viviane\Desktop\Nova pasta\Digital Inovation One\cursos\Bootcamp santander\AgenciaBancaria\AgenciaBancaria.Dominio\obj\Debug\net5.0\AgenciaBancaria.Dominio.csproj.AssemblyReference.cache
+C:\Users\Viviane\Desktop\Nova pasta\Digital Inovation One\cursos\Bootcamp santander\AgenciaBancaria\AgenciaBancaria.Dominio\obj\Debug\net5.0\AgenciaBancaria.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viviane\Desktop\Nova pasta\Digital Inovation One\cursos\Bootcamp santander\AgenciaBancaria\AgenciaBancaria.Dominio\obj\Debug\net5.0\AgenciaBancaria.Dominio.AssemblyInfoInputs.cache
+C:\Users\Viviane\Desktop\Nova pasta\Digital Inovation One\cursos\Bootcamp santander\AgenciaBancaria\AgenciaBancaria.Dominio\obj\Debug\net5.0\AgenciaBancaria.Dominio.AssemblyInfo.cs
+C:\Users\Viviane\Desktop\Nova pasta\Digital Inovation One\cursos\Bootcamp santander\AgenciaBancaria\AgenciaBancaria.Dominio\obj\Debug\net5.0\AgenciaBancaria.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Viviane\Desktop\Nova pasta\Digital Inovation One\cursos\Bootcamp santander\AgenciaBancaria\AgenciaBancaria.Dominio\obj\Debug\net5.0\AgenciaBancaria.Dominio.dll
+C:\Users\Viviane\Desktop\Nova pasta\Digital Inovation One\cursos\Bootcamp santander\AgenciaBancaria\AgenciaBancaria.Dominio\obj\Debug\net5.0\ref\AgenciaBancaria.Dominio.dll
+C:\Users\Viviane\Desktop\Nova pasta\Digital Inovation One\cursos\Bootcamp santander\AgenciaBancaria\AgenciaBancaria.Dominio\obj\Debug\net5.0\AgenciaBancaria.Dominio.pdb
